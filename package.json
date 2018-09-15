@@ -1,0 +1,21 @@
+{
+  "name": "number-formatter",
+  "version": "1.0.0",
+  "description": "to add comma to a number and learn how to create modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "Okba KHENISSI",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.16.3"
+  },
+  "engines": {
+    "node": ">=10.10.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
